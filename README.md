@@ -16,6 +16,9 @@ A collection of Claude Code skills for automating 3D product workflows in Blende
 - **[dynamic-full-loop](dynamic-full-loop/SKILL.md)** — Speed-ramped loop showing all sides with fast whip transitions.
 - **[perfect-loop](perfect-loop/SKILL.md)** — Seamless 360-degree loop for infinite playback.
 
+### Technical / Explainer
+- **[technical-annotation](technical-annotation/SKILL.md)** — Force vectors, angle arcs, and value labels on an orthographic camera. For engineering/physics explainers where a number drives the visuals, not product beauty shots.
+
 ### Blender Automation
 - **[blender-toolkit](blender-toolkit/SKILL.md)** — WebSocket-based geometry, materials, modifiers, and Mixamo animation retargeting.
 
