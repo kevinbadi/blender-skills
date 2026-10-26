@@ -16,6 +16,9 @@ A collection of Claude Code skills for automating 3D product workflows in Blende
 - **[dynamic-full-loop](dynamic-full-loop/SKILL.md)** — Speed-ramped loop showing all sides with fast whip transitions.
 - **[perfect-loop](perfect-loop/SKILL.md)** — Seamless 360-degree loop for infinite playback.
 
+### Game Character Animation
+- **[keyframe-coach](keyframe-coach/SKILL.md)** — Animate game characters, creatures and props with the 12 principles adapted for games (responsiveness, loops, root motion, export to Unity/Unreal/Godot/Roblox). Includes an animation audit script.
+
 ### Blender Automation
 - **[blender-toolkit](blender-toolkit/SKILL.md)** — WebSocket-based geometry, materials, modifiers, and Mixamo animation retargeting.
 
